@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Slava!
+### sudo love me baby
 
 <!--
 **voiteshonok/voiteshonok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voiteshonok&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voiteshonok&langs_count=6&hide=jupyter notebook,cmake,javascript,css,html">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voiteshonok&langs_count=6&hide=jupyter%20notebook,css,html,cmake,javascript,makefile,pascal">
 
 ![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
 
