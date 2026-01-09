@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voiteshonok&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voiteshonok&langs_count=5&hide=jupyter%20notebook,css,html,cmake,javascript,makefile,pascal&layout=compact">
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voiteshonok&langs_count=5&hide=jupyter%20notebook,css,html,cmake,makefile,pascal&layout=compact">
 
 ## Connect 🤝
 [![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/slavavoiteshonok/) &emsp;
